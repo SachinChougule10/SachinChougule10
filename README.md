@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Sachin Chougule ! 👋</h2>
-<h3 align="center">I am an Artificial Intelligence and Data Science Undergraduate, passionate about Machine Learning, NLP, GenAI.</h3>
+<h4 align="center">I am an Artificial Intelligence and Data Science Undergraduate, passionate about Machine Learning, NLP, GenAI.</h4>
 
 
 
