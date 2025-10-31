@@ -2,15 +2,9 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Sachin%20Chougule%20🚀&desc=AI%20%7C%20Java%20Full%20Stack%20%7C%20MERN&fontSize=35&descSize=20&fontAlignY=35&descAlignY=55&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Sachin%20Chougule%20🚀&desc=Python%20%7C%20Java%20%7C%20SQL%20%20%&fontSize=35&descSize=20&fontAlignY=35&descAlignY=55&fontColor=ffffff)
 
 </div>
-
-
-
-
-
-
 
 
 <h2 align="center">Hi 👋, I'm Sachin Chougule</h2>
@@ -18,11 +12,10 @@
 
 
 
-
 ### 🧠 About Me
 - 🎓 Artificial Intelligence and Data Science Graduate
 - 🚀 Passionate about building intelligent, end-to-end solutions that combine **AI** and **Full-Stack Web Development**  
-- 🌱 Enhancing skills in **AI**, **Java Full Stack**, and **MERN Stack**  
+- 🌱 Enhancing skills in **AI/ML** and **Java Full Stack**
 
 ---
 
@@ -40,19 +33,20 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-#### 🌐 Web Development  
+#### 🎨 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+
+#### 🛠️ Backend Development
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 
-### 🗄️ Databases  
+
+#### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
