@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Sachin%20Chougule%20🚀&desc=Python%20%7C%20Java%20%7C%20SQL%20%20%&fontSize=35&descSize=20&fontAlignY=35&descAlignY=55&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Sachin%20Chougule%20🚀&desc=Python%20%7C%20Java%20%7C%20SQL%20%7C%20Data%20Science%20%&fontSize=35&descSize=20&fontAlignY=35&descAlignY=55&fontColor=ffffff)
 
 </div>
 
@@ -15,7 +15,7 @@
 ### 🧠 About Me
 - 🎓 Artificial Intelligence and Data Science Graduate
 - 🚀 Passionate about building intelligent, end-to-end solutions that combine **AI** and **Full-Stack Web Development**  
-- 🌱 Enhancing skills in **AI/ML** and **Java Full Stack**
+- 🌱 Enhancing skills in **AI & Data Science** and **Java Full Stack**
 
 ---
 
@@ -40,11 +40,10 @@
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 #### 🛠️ Backend Development
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-
+![Flask](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black)
 
 #### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
