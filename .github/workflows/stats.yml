@@ -21,12 +21,12 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Kolkata
-          output: assets/github-stats.svg
+          output: github-metrics.svg
 
       - name: Commit and push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add github-stats.svg
+          git add github-metrics.svg
           git commit -m "Update GitHub stats" || echo "No changes"
           git push
