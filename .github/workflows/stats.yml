@@ -27,6 +27,6 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add assets/github-stats.svg
+          git add github-stats.svg
           git commit -m "Update GitHub stats" || echo "No changes"
           git push
