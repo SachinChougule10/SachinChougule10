@@ -54,12 +54,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
 ---
-
 ### 📊 GitHub Stats  
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SachinChougule10&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinChougule10&layout=compact&theme=radical)
+<!--![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SachinChougule10&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinChougule10&layout=compact&theme=radical)-->
+
+<img src="github-metrics.svg" alt="GitHub Metrics" />
 
 ---
 
