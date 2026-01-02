@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # IMPORTANT: allows pull --rebase
 
       - name: Generate GitHub stats SVG
         uses: lowlighter/metrics@latest
@@ -27,6 +29,7 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+          git pull --rebase
           git add github-metrics.svg
           git commit -m "Update GitHub stats" || echo "No changes"
           git push
